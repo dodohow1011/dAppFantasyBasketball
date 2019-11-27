@@ -1,0 +1,8 @@
+.data-view {
+    width: 550px;
+    overflow-y: hidden;
+}
+
+.filter {
+    margin-left: 75px;
+}
